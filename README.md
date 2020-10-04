@@ -6,5 +6,5 @@ List kontributor:
 
 - [WisnuDS](https://github.com/WisnuDS)
 - [evaleries](https://github.com/evaleries)
-- [rahadianadit] (https://github.com/rahadianadit)
+- [rahadianadit](https://github.com/rahadianadit)
 
