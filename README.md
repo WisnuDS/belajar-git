@@ -7,3 +7,4 @@ List kontributor:
 - [WisnuDS](https://github.com/WisnuDS)
 - [evaleries](https://github.com/evaleries)
 - [Wahid28](https://github.com/Wahid28)
+- [Kizami1](htttps://github.com/Kizami1)
