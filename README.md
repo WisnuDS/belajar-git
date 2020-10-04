@@ -7,4 +7,4 @@ List kontributor:
 - [WisnuDS](https://github.com/WisnuDS)
 - [evaleries](https://github.com/evaleries)
 - [Wahid28](https://github.com/Wahid28)
-- [Jayanto] (https://github.com/MochArisandiJayanto)
+- [MochArisandiJayanto](https://github.com/MochArisandiJayanto)
