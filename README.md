@@ -9,3 +9,4 @@ List kontributor:
 - [evaleries](https://github.com/evaleries)
 - [Wahid28](https://github.com/Wahid28)
 - [rifky290301](https://github.com/rifky290301)
+- [Kanzul192410102035] (https://github.com/prokom77)
