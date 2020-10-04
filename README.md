@@ -6,4 +6,4 @@ List kontributor:
 
 - [WisnuDS](https://github.com/WisnuDS)
 - [evaleries](https://github.com/evaleries)
-
+- [hasyimzii](https://github.com/hasyimzii)
