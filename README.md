@@ -17,3 +17,4 @@ List kontributor:
 - [shiciro](https://github.com/shiciro)
 - [vlnpc15](https://github.com/vlnpc15)
 - [Yousei-Kun](https://github.com/Yousei-kun)
+- [MochArisandiJayanto](https://github.com/MochArisandiJayanto)
