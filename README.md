@@ -22,3 +22,4 @@ List kontributor:
 - [nuwbie-11](https://github.com/nuwbie-11)
 - [Rizqi05](https://github.com/Rizqi05)
 - [novalsofyan](https://github.com/novalsofyan)
+- [figoperdana](https://github.com/figoperdana)
