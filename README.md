@@ -12,5 +12,4 @@ List kontributor:
 - [Kizami1](htttps://github.com/Kizami1)
 - [Shohibun](https://github.com/Shohibun)
 - [fakhriinaufal](https://github.com/fakhriinaufal)
-
-
+- [hasyimzii](https://github.com/hasyimzii)
