@@ -23,3 +23,4 @@ List kontributor:
 - [Rizqi05](https://github.com/Rizqi05)
 - [novalsofyan](https://github.com/novalsofyan)
 - [figoperdana](https://github.com/figoperdana)
+- [iyukukuku](https://github.com/iyukukuku)
