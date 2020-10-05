@@ -11,4 +11,6 @@ List kontributor:
 - [rifky290301](https://github.com/rifky290301)
 - [Kizami1](htttps://github.com/Kizami1)
 - [Shohibun](https://github.com/Shohibun)
+- [fakhriinaufal](https://github.com/fakhriinaufal)
+
 
