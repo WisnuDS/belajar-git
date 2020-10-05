@@ -15,3 +15,4 @@ List kontributor:
 - [hasyimzii](https://github.com/hasyimzii)
 - [Rizqial5](https://github.com/Rizqial5)
 - [shiciro](https://github.com/shiciro)
+- [vlnpc15](https://github.com/vlnpc15)
