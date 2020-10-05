@@ -20,3 +20,4 @@ List kontributor:
 - [MochArisandiJayanto](https://github.com/MochArisandiJayanto)
 - [svmmerse](https://github.com/svmmerse)
 - [nuwbie-11](https://github.com/nuwbie-11)
+- [Rizqi05](https://github.com/Rizqi05)
