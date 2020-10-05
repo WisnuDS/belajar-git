@@ -13,3 +13,4 @@ List kontributor:
 - [Shohibun](https://github.com/Shohibun)
 - [fakhriinaufal](https://github.com/fakhriinaufal)
 - [hasyimzii](https://github.com/hasyimzii)
+- [Rizqial5](https://github.com/Rizqial5)
