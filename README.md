@@ -19,3 +19,4 @@ List kontributor:
 - [Yousei-Kun](https://github.com/Yousei-kun)
 - [MochArisandiJayanto](https://github.com/MochArisandiJayanto)
 - [svmmerse](https://github.com/svmmerse)
+- [nuwbie-11](https://github.com/nuwbie-11)
