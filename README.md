@@ -18,3 +18,4 @@ List kontributor:
 - [vlnpc15](https://github.com/vlnpc15)
 - [Yousei-Kun](https://github.com/Yousei-kun)
 - [MochArisandiJayanto](https://github.com/MochArisandiJayanto)
+- [svmmerse](https://github.com/svmmerse)
